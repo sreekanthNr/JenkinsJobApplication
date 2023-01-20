@@ -14,7 +14,7 @@ public class JenkinsJobApplication {
 
 	@PostConstruct
 	 public void init(){
-		System.out.println("Welcome to EnggAdda");
+		System.out.println(" Dev Environment ");
 	 }
 	public static void main(String[] args) {
 		SpringApplication.run(JenkinsJobApplication.class, args);
