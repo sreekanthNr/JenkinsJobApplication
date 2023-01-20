@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import java.util.logging.Logger;
 
 @SpringBootApplication
-public class JenkinsJobApplicatio{
+public class JenkinsJobApplication   {
 
 	//public static Logger logger = (Logger) LogFactory.getLog(JenkinsJobApplication.class);
 
